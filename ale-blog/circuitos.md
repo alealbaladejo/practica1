@@ -9,7 +9,7 @@ permalink: /circuitos/
 ### 1. Circuito de Mónaco
 ![Circuito de Mónaco](/assets/images/monaco.jpeg)
 
-El Circuito de Mónaco es uno de los más famosos del mundo, conocido por sus calles estrechas y su hermoso paisaje. Este circuito presenta desafíos únicos debido a sus curvas cerradas y la falta de espacio para los errores.
+el Circuito de Mónaco es uno de los más famosos del mundo, conocido por sus calles estrechas y su hermoso paisaje. Este circuito presenta desafíos únicos debido a sus curvas cerradas y la falta de espacio para los errores.
 
 - Longitud: 3.337 km
 - Primera carrera: 1929
