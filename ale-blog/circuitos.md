@@ -11,7 +11,7 @@ permalink: /circuitos/
 
 El Circuito de Mónaco es uno de los más famosos del mundo, conocido por sus calles estrechas y su hermoso paisaje. Este circuito presenta desafíos únicos debido a sus curvas cerradas y la falta de espacio para los errores.
 
-- Longitud: 3.335 km
+- Longitud: 3.337 km
 - Primera carrera: 1929
 - Número de vueltas: 78
 
