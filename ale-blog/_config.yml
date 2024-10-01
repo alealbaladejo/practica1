@@ -8,7 +8,7 @@ twitter_username: albaladejoale
 github_username:  alealbaladejo
 
 # Build settings
-theme: jekyll-theme-simplex
+theme: minima
 plugins:
   - jekyll-feed
 

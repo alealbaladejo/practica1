@@ -1,29 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Bienvenidos a mi blog sobre Fórmula 1"
 date:   2024-10-01 17:32:15 +0200
-categories: jekyll update
+categories: formula1
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+¡Bienvenidos a mi blog dedicado a la emocionante y rápida mundo de la Fórmula 1! Aquí, exploraremos todo lo relacionado con este deporte, desde el análisis de las temporadas pasadas hasta las últimas innovaciones tecnológicas y los perfiles de los pilotos más destacados.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+### Lo que encontrarás aquí:
+- **Análisis de Temporadas**: Revisaremos momentos clave y rivalidades que han definido la historia de la F1.
+- **Tecnología de los Coches**: Profundizaremos en la ingeniería que hace posible la velocidad y la competitividad en la pista.
+- **Perfiles de Pilotos**: Conocerás a los grandes nombres de la F1 y sus trayectorias.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### Primer Post: Análisis de la Temporada 2023
+En mi próximo post, haré un desglose de la temporada 2023, analizando los puntos más destacados y las sorpresas que nos dejó. 
 
-Jekyll also offers powerful support for code snippets:
+### Códigos y Estilo de Conducción
+La Fórmula 1 no es solo velocidad; también es estrategia, tecnología y mucha habilidad. Aquí tienes un ejemplo de cómo se pueden combinar todos estos elementos en la pista:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+### Conéctate y Participa
+Espero que disfrutes leyendo y aprendiendo sobre la Fórmula 1 tanto como yo disfruto escribiendo sobre ella. No dudes en dejar tus comentarios y compartir tus opiniones. Para más información y detalles, consulta las [documentaciones de F1][f1-docs] y comparte tus experiencias.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+[f1-docs]: https://www.formula1.com/
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+¡Vamos a disfrutar juntos de la velocidad y la adrenalina de la Fórmula 1!
