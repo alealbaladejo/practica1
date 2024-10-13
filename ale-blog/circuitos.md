@@ -4,7 +4,7 @@ title: Circuitos
 permalink: /circuitos/
 ---
 
-## Circuitos ass Destacados
+## Circuitos Mass Destacados
 
 ### 1. Circuito de Mónaco
 ![Circuito de Mónaco](/assets/images/monaco.jpeg)
