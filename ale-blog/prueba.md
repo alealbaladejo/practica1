@@ -1,6 +1,6 @@
 ---
 layout: page
-title: prueba
+title: Introducción a la implantación de aplicaciones web
 permalink: /prueba/
 ---
 
